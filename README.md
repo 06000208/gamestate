@@ -12,7 +12,7 @@ Planned features:
 
 | Game | Architecture | Gamestate<br> Implementation | Notes |
 | --- | --- | --- | --- |
-| Unturned | [OpenMod](https://github.com/openmod/openmod) | Not done | [Docs](https://openmod.github.io/openmod-docs/) |
+| Unturned | [OpenMod](https://github.com/openmod/openmod) | [gamestate-openmod](https://github.com/06000208/gamestate-openmod) | [Docs](https://openmod.github.io/openmod-docs/) |
 | Unturned | [LDM / Rocketmod](https://github.com/SmartlyDressedGames/Legally-Distinct-Missile) | [gamestate-ldm](https://github.com/06000208/gamestate-ldm) | [Docs](https://ldm-community.github.io/docs/) |
 | Garry's Mod | [Lua API](https://wiki.facepunch.com/gmod) | [gamestate-gmod](https://github.com/06000208/gamestate-gmod) |  |
 | [Team Fortress 2,<br> CSS, CSGO, L4D2,<br> etc.](<https://wiki.alliedmods.net/Required_Versions_(SourceMod)>) | [Sourcemod](https://www.sourcemod.net/) | Not Done |  |
