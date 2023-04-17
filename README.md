@@ -8,7 +8,7 @@ Planned features:
 - Allows for communication between existing game server architecture with node.js
 - Direct shell output & process wrapping
 
-## Bridge Support
+### Bridge Support
 
 | Game | Architecture | Gamestate<br> Implementation |
 | --- | --- | --- |
