@@ -26,6 +26,6 @@ Planned features:
 <!-- | Rust? |  |  |  | -->
 <!-- | Don't Starve Together? |  |  |  | -->
 
-## Wrapper Support
+### Wrapper Support
 
 Not implemented
