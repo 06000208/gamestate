@@ -1,0 +1,29 @@
+{
+  "name": "gamestate",
+  "version": "0.0.1",
+  "description": "Game server monitoring & management from node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/06000208/gamestate.git"
+  },
+  "author": "06000208",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/06000208/gamestate/issues"
+  },
+  "homepage": "https://github.com/06000208/gamestate#readme",
+  "dependencies": {
+    "@discordjs/collection": "^1.5.0",
+    "@sapphire/snowflake": "^3.4.2",
+    "@tinyhttp/app": "^2.0.29",
+    "gamedig": "^4.0.6",
+    "toad-scheduler": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0"
+  }
+}
